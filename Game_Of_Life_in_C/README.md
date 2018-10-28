@@ -3,3 +3,5 @@
 in order to test this binary. run
 	./Game 
 this shows the usage.
+
+Readme.md completed
